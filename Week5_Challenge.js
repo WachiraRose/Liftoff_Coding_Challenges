@@ -29,5 +29,5 @@ class Person {
   
   console.log(p1.compareAge(p2)); // Output: "Joel is older than me."
   console.log(p2.compareAge(p1)); // Output: "Samuel is younger than me."
-  console.log(p1.compareAge(p3)); // Output: "Lily is the same age as me."
+  console.log(p1.compareAge(p3)); // Output: "Lily is the same age as me." 
   
