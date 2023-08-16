@@ -20,7 +20,9 @@ class Person {
       }
     }
   }
-  
+
+  // Using the example given
+
   const p1 = new Person("Samuel", 24);
   const p2 = new Person("Joel", 36);
   const p3 = new Person("Lily", 24);
